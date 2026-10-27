@@ -32,9 +32,3 @@ npm run build
 Кожен компонент має окрему папку в `src/components` із файлами `.tsx` і `.module.css`. Спільні типи містяться в `src/types/votes.ts`.
 
 CSS-модулі взято з [goitacademy/react-cafe-styles](https://github.com/goitacademy/react-cafe-styles); глобальну нормалізацію забезпечує `modern-normalize`.
-
-## Публікація
-
-Для здачі створіть репозиторій GitHub із назвою `02-react-cafe` та імпортуйте його у Vercel. Параметри: framework — Vite, build command — `npm run build`, output directory — `dist`.
-
-Надайте посилання на репозиторій і розгорнутий застосунок. За умовами завдання після останнього `git push` зачекайте щонайменше 5 хвилин перед відправленням роботи на перевірку.
