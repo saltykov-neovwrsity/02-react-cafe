@@ -2,6 +2,8 @@
 
 Віджет відгуків для Sip Happens Café, створений за допомогою Vite, React і TypeScript.
 
+[Переглянути застосунок](https://02-react-cafe-kohl-pi.vercel.app/)
+
 ## Запуск
 
 ```bash
